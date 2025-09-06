@@ -108,7 +108,7 @@ function QuizProvider({ children }) {
                 status,
                 index,
                 answer,
-                points,
+                points, 
                 highscore,
                 secondsRemaining,
                 numQuestions,
